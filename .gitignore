@@ -1,0 +1,16 @@
+.Rproj.user
+.Rbuildignore
+.Rhistory
+.RData
+.ipynb_checkpoints
+*~
+*.o
+*.so
+*.pdf
+*.tar.gz
+inst/doc
+vignettes/destiny.*
+vignettes/destiny_files
+!vignettes/destiny.tplx
+!vignettes/destiny.ipynb
+!vignettes/destiny.ipynbmeta
